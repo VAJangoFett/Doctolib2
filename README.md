@@ -6,8 +6,8 @@ ruby '2.5.1'
 
 ## Team
 
-* David Gerard - @Debzow
-* Arthur Vouloir - @ArthurVouloir
+* Samir Founou
+* Arthur Vouloir
 
 ## Résumé du projet
 
