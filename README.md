@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby Version
 
-Things you may want to cover:
+ruby '2.5.1'
 
-* Ruby version
+## Team
 
-* System dependencies
+* David Gerard - @Debzow
+* Arthur Vouloir - @ArthurVouloir
 
-* Configuration
+## Résumé du projet
 
-* Database creation
+Nous sommes partis d'une arborescence Rails dans laquelle nous avons créé, initialisé et lié des BDD
 
-* Database initialization
+## Quick start
 
-* How to run the test suite
+Pour lancer le programme il vous faut faire :
 
-* Services (job queues, cache servers, search engines, etc.)
+1 - bundle install (permettant de télécharger et/ou mettre à jour les versions)
+2 - rails db:migrate (permettant d'initialiser les BDD)
 
-* Deployment instructions
+## Création des BDD
 
-* ...
+3 - rails db:seed
+4 - rails console (permettant de naviguer au sein des BDD ainsi créées)
+
+## Gem info
+
+cf. Gemfile
